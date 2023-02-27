@@ -648,7 +648,7 @@ article h3{
 
 @media(min-width: 1200px){
     #showcase{
-        background: linear-gradient(45deg,rgba(0, 0, 0, 0.7), rgba(221, 173, 173, 0.6)), url("../images/home1.jpg");
+        background: linear-gradient(45deg,rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url("../images/home1.jpg");
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
